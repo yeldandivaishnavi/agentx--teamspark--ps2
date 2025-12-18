@@ -1,0 +1,2 @@
+```python
+# Grid environment placeholder
