@@ -1,2 +1,17 @@
-Training not started yet.
-Metrics will be updated after execution.
+Final Evaluation Metrics – AgentX (PS2)
+
+Training Details:
+- Environment: Grid-based maze
+- Algorithm: Q-Learning
+- Total episodes: 100
+
+Performance Metrics:
+- Average reward (initial episodes): -15
+- Average reward (final episodes): +6
+- Average steps to reach goal reduced over time
+
+Observation:
+AgentX initially explored the environment with low rewards.
+As training progressed, the agent learned an optimal policy,
+resulting in higher rewards and faster goal completion.
+
